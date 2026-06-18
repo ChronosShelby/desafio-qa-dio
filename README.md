@@ -53,14 +53,6 @@ O projeto tem como objetivo aplicar na prática os conceitos de **testes manuais
 
 ---
 
-## 👨‍💻 Autor
-
-**Igor Gabriel Antunes**  
-Analista QA | Projeto SwagLabs Shopping  
-[LinkedIn](https://www.linkedin.com/in/igorgbiel/) • [GitHub](https://github.com/ChronosShelby)
-
----
-
 ## ✅ Conclusão
 
 Este projeto consolida o aprendizado em **testes manuais funcionais**, cobrindo desde a análise de requisitos até a execução e documentação dos testes.  
@@ -74,3 +66,9 @@ A entrega contempla:
 > “Documentar é testar com clareza, a qualidade começa na comunicação.”
 
 ---
+
+## 👨‍💻 Autor
+
+**Igor Gabriel Antunes**  
+Analista QA | Projeto SwagLabs Shopping  
+[LinkedIn](https://www.linkedin.com/in/igorgbiel/) • [GitHub](https://github.com/ChronosShelby)
